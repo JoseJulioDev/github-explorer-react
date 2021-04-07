@@ -12,4 +12,4 @@ github-explorer-react é uma aplicação com o foco em aplicar conhecimentos de 
 <img src="/src/assets/print1.PNG" alt="Print1" />
 
 
-<img srv="/src/assets/print2.PNG" alt="Print2" />
+<img src="/src/assets/print2.PNG" alt="Print2" />
