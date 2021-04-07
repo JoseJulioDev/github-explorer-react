@@ -9,7 +9,7 @@ github-explorer-react é uma aplicação com o foco em aplicar conhecimentos de 
  - styled components
  - axios
 
-<img src="/assets/print1.PNG" alt="Print1" />
+<img src="/src/assets/print1.PNG" alt="Print1" />
 
 
-<img srv="/assets/print2.PNG" alt="Print2" />
+<img srv="/src/assets/print2.PNG" alt="Print2" />
